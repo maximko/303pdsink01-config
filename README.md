@@ -1,10 +1,12 @@
 # 303pdsink01 Power Delivery trigger decoy configuration table
 
 ```
-SW	5v	9v	12v	15v	20v
-1	0	1	1	1	1
-2	0	1	1	0	0
-3	0	1	0	0	1
+SW  1   2   3
+5v  0   0   0
+9v  1   1   1
+12v 1   1   0
+15v 1   0   0
+20v 1   0   1
 ```
 
 ## Some photos
